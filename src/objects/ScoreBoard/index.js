@@ -1,3 +1,4 @@
+import './style.css';
 import PlayerName from '../../components/PlayerName';
 
 const ScoreBoard = () => {
