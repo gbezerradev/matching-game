@@ -4,7 +4,7 @@ const CardFrontBack = () => {
   return /*html*/ `
     <article class="card-front-back">
       ${CardGame()}
-      ${CardGame()}
+      ${CardGame('javascript', 'Logo do JavaScript')}
     </article>
   `;
 };
