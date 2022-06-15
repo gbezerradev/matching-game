@@ -1,3 +1,5 @@
+import './style.css';
+
 const VsPlayer = (content = 'vs') => {
   return /*html*/ `
     <span class="vs-player">
